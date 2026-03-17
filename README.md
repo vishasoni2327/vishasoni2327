@@ -27,7 +27,7 @@
 🔗 https://vishasoni2327.github.io/Tic-Tac-Toe/
 
 ### ✊ Rock Paper Scissors  
-🔗 (yahan apna live link daal dena baad me)
+https://vishasoni2327.github.io/Rock-Paper-Scissor/
 
 ---
 
