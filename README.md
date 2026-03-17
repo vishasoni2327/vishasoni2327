@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Vishal Kumar Soni
 
-<!--
-**vishasoni2327/vishasoni2327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer  
+🎓 BCA Student  
+🚀 Passionate about Web Development & DSA  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- C
+- C++
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 📚 Currently Learning
+- Data Structures and Algorithms (DSA)
+- Advanced JavaScript
+
+---
+
+## 🚀 Projects
+
+### 🎮 Tic Tac Toe Game  
+🔗 https://vishasoni2327.github.io/Tic-Tac-Toe/
+
+### ✊ Rock Paper Scissors  
+🔗 (yahan apna live link daal dena baad me)
+
+---
+
+## 📫 Connect with me
+- GitHub: https://github.com/vishasoni2327  
+- LinkedIn: (apna link daalna)
+
+---
+
+⭐ Always learning and building new projects!
