@@ -33,7 +33,8 @@ https://vishasoni2327.github.io/Rock-Paper-Scissor/
 
 ## 📫 Connect with me
 - GitHub: https://github.com/vishasoni2327  
-- LinkedIn: (apna link daalna)
+- LinkedIn:
+https://www.linkedin.com/in/vishal-kumar-soni-b454a2294
 
 ---
 
